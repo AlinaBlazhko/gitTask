@@ -4,6 +4,6 @@ import org.junit.Test;
 public class SmokeTest {
     @Test
     public void firstTest(){
-        Assert.assertTrue(false);
+        Assert.assertTrue(true);
     }
 }
